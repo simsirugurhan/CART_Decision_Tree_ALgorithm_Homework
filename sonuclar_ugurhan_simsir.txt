@@ -1,0 +1,13 @@
+Egitim (Train) sonucu: 
+Accuracy: 1.0
+TPrate: 1.0
+TNrate: 1.0
+TP adedi: 208
+TN adedi: 282
+----------
+Sinama (Test) sonucu:
+Accuracy: 0.8
+TPrate: 0.8080808080808081
+TNrate: 0.7920792079207921
+TP adedi: 80
+TN adedi: 80
